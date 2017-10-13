@@ -1,0 +1,17 @@
+.yellow, .gray {
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+	padding: 10px;
+	display: inline-block;
+	vertical-align: top;
+	
+}
+.yellow {
+	background-color: #FEA409;
+}
+.gray {
+	
+	background-color: #3B3E40;
+	color: white; 
+}
